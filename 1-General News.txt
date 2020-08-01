@@ -1,1 +1,3 @@
-Matches: (thefifthwave OR from:(news.lopinion.fr OR globalvoices.org OR index.co OR crew@morningbrew.com OR qz.com OR daily.timetosignoff.fr OR theguardian.com OR newsletter@liberation.cccampaigns.net))
+To be put in the "Includes the words" section:
+
+"via the fifth wave" OR from:(news.lopinion.fr OR globalvoices.org OR index.co OR crew@morningbrew.com OR qz.com OR daily.timetosignoff.fr OR theguardian.com OR newsletter@liberation.cccampaigns.net)
