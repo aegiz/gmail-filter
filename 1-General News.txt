@@ -1,0 +1,1 @@
+Matches: (thefifthwave OR from:(news.lopinion.fr OR globalvoices.org OR index.co OR crew@morningbrew.com OR qz.com OR daily.timetosignoff.fr OR theguardian.com OR newsletter@liberation.cccampaigns.net))
