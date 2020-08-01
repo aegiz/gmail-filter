@@ -1,3 +1,3 @@
 To be put in the "From" section:
 
-designersinteractifs.org OR "FrontEnd Focus" OR heroku.com OR blogduwebdesign.com OR "JavaScript Weekly" OR greensock.com OR codepen.io OR datascienceweekly.org OR apify.intercom-mail.com OR zapier.com
+designersinteractifs.org OR getrevue.co OR "FrontEnd Focus" OR heroku.com OR blogduwebdesign.com OR "JavaScript Weekly" OR greensock.com OR codepen.io OR datascienceweekly.org OR apify.intercom-mail.com OR zapier.com OR twilio.com OR stackoverflow.email OR optimizely.com OR jungleprogram.org OR devtomanager.com OR netlify.com OR gatsbyjs.com OR remoteleads.io
