@@ -1,9 +1,0 @@
-label:0-jobhunt
-
-JobHunt
-
------
-
-To be put in the "Includes the words" section:
-
-from:(startup@amsterdam.nl OR siliconcanals.com OR techforgood.global)

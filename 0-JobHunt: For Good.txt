@@ -1,0 +1,9 @@
+label:0-jobhunt
+
+JobHunt
+
+-----
+
+To be put in the "Includes the words" section:
+
+from:(startup@amsterdam.nl OR siliconcanals.com OR techforgood.global OR index.co OR efficycle.fr OR climatehomenews.com OR 80000hours.org OR compensate.com)
