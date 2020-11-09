@@ -1,4 +1,4 @@
-label:0-jobhunt
+label:0--job----for-good 
 
 JobHunt
 
@@ -6,4 +6,9 @@ JobHunt
 
 To be put in the "Includes the words" section:
 
-from:(startup@amsterdam.nl OR siliconcanals.com OR techforgood.global OR index.co OR efficycle.fr OR climatehomenews.com OR 80000hours.org OR compensate.com)
+from:(startup@amsterdam.nl OR siliconcanals.com OR techforgood.global OR index.co OR efficycle.fr OR climatehomenews.com OR 80000hours.org OR compensate.com OR kentcdodds.com OR theoceancleanup.com OR techleap.nl)
+
+When updating the filter, click
+1. "Continue"
+2. "Also apply filter to matching conversations.""
+3. Update Filter
