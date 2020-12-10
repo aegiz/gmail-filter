@@ -1,0 +1,8 @@
+To be put in the "Includes the words" section:
+
+subject:("we love the internet" OR "The Upside") OR from:(info.lemonde.fr OR technologyreview.com OR no-reply@substack.com) 
+
+When updating the filter, click
+1. "Continue"
+2. "Also apply filter to matching conversations.""
+3. Update Filter

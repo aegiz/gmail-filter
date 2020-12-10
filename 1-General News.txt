@@ -6,7 +6,7 @@ General news
 
 To be put in the "Includes the words" section:
 
-"via the fifth wave" OR from:(news.lopinion.fr OR globalvoices.org OR crew@morningbrew.com OR qz.com OR daily.timetosignoff.fr OR theguardian.com OR newsletter@liberation.cccampaigns.net OR dutchnews.nl OR theatlantic.com OR gijn.org)
+"via the fifth wave" OR from:(news.lopinion.fr OR globalvoices.org OR crew@morningbrew.com OR qz.com OR daily.timetosignoff.fr OR theguardian.com OR newsletter@liberation.cccampaigns.net OR dutchnews.nl OR theatlantic.com OR gijn.org OR info.lemonde.fr)
 
 
 When updating the filter, click
