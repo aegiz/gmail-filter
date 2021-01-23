@@ -6,4 +6,9 @@ Startup & Tech
 
 To be put in the "Includes the words" section:
 
-subject:(we love the internet) OR from:(ben-evans.com OR remotive.io OR flowingdata.com OR deux.io OR howeverythingstarted.com OR okdork.com OR newsletters@technologyreview.com OR crunchbase.com OR producthunt.com OR rodolphe@dutel.fr OR noreply+feedproxy@google.com OR thefamily@substack.com OR thefamily.co OR theodi.org OR futur@usbeketrica.com OR exponentialview.co OR maddyness.com OR getplanet.eu OR firstround.com OR thedataface.com OR ycombinator.com OR coglab.fr OR cbinsights.com OR news@thehustle.co OR thefutureisnotwhatitusedtobe.com OR stratechery.com OR datainnovation.org OR lapaillasse.org OR angel.co OR rudebaguette.com OR frenchweb.fr OR producthunt.com OR seedtable.com OR "thegrapevine" OR hackaday.com OR europeanstraits@substack.com)
+subject:(we love the internet) OR from:(ben-evans.com OR remotive.io OR flowingdata.com OR deux.io OR howeverythingstarted.com OR okdork.com OR newsletters@technologyreview.com OR crunchbase.com OR producthunt.com OR rodolphe@dutel.fr OR noreply+feedproxy@google.com OR thefamily@substack.com OR thefamily.co OR theodi.org OR futur@usbeketrica.com OR exponentialview.co OR maddyness.com OR getplanet.eu OR firstround.com OR thedataface.com OR ycombinator.com OR coglab.fr OR cbinsights.com OR news@thehustle.co OR thefutureisnotwhatitusedtobe.com OR stratechery.com OR datainnovation.org OR lapaillasse.org OR angel.co OR rudebaguette.com OR frenchweb.fr OR producthunt.com OR seedtable.com OR "thegrapevine" OR hackaday.com OR europeanstraits@substack.com OR numerama.com)
+
+When updating the filter, click
+1. "Continue"
+2. "Also apply filter to matching conversations.""
+3. Update Filter

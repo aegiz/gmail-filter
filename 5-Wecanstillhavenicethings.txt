@@ -1,6 +1,6 @@
 To be put in the "Includes the words" section:
 
-subject:("we love the internet" OR "The Upside") OR from:(info.lemonde.fr OR technologyreview.com OR no-reply@substack.com) 
+subject:("we love the internet" OR "The Upside") OR from:(info.lemonde.fr OR technologyreview.com OR no-reply@substack.com OR positive.news) 
 
 When updating the filter, click
 1. "Continue"
